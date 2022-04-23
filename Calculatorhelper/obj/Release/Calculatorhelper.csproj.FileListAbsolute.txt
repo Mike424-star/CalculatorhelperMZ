@@ -1,0 +1,12 @@
+C:\Users\joymi\source\repos\CalculatorhelperMZ\Calculatorhelper\bin\Release\Calculatorhelper.dll
+C:\Users\joymi\source\repos\CalculatorhelperMZ\Calculatorhelper\bin\Release\Calculatorhelper.pdb
+C:\Users\joymi\source\repos\CalculatorhelperMZ\Calculatorhelper\obj\Release\Calculatorhelper.csproj.AssemblyReference.cache
+C:\Users\joymi\source\repos\CalculatorhelperMZ\Calculatorhelper\obj\Release\Calculatorhelper.csproj.CoreCompileInputs.cache
+C:\Users\joymi\source\repos\CalculatorhelperMZ\Calculatorhelper\obj\Release\Calculatorhelper.dll
+C:\Users\joymi\source\repos\CalculatorhelperMZ\Calculatorhelper\obj\Release\Calculatorhelper.pdb
+C:\Users\joymi\Desktop\CalculatorhelperMZ\Calculatorhelper\bin\Release\Calculator.helper.MZ21.dll
+C:\Users\joymi\Desktop\CalculatorhelperMZ\Calculatorhelper\bin\Release\Calculator.helper.MZ21.pdb
+C:\Users\joymi\Desktop\CalculatorhelperMZ\Calculatorhelper\obj\Release\Calculatorhelper.csproj.AssemblyReference.cache
+C:\Users\joymi\Desktop\CalculatorhelperMZ\Calculatorhelper\obj\Release\Calculatorhelper.csproj.CoreCompileInputs.cache
+C:\Users\joymi\Desktop\CalculatorhelperMZ\Calculatorhelper\obj\Release\Calculator.helper.MZ21.dll
+C:\Users\joymi\Desktop\CalculatorhelperMZ\Calculatorhelper\obj\Release\Calculator.helper.MZ21.pdb
